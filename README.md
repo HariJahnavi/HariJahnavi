@@ -1,10 +1,8 @@
 <h1 align="center" style="color:#DC143C;"> Hari Jahnavi Kada</h1>
-
 <p align="center">
   <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
   <a href="mailto:harijahnavikada@gmail.com"> Email: harijahnavikada@gmail.com</a>
 </p>
-
 ---
 ##  <span style="color:#DC143C;"> About Me </span>
 
@@ -76,5 +74,3 @@
 -  **LinkedIn**: Connect with me Professionally : [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
 -  **GITHUB**: View My code respositories : [github.com/HariJahnavi](https://github.com/HariJahnavi)
 ---
-
-
