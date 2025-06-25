@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#0000FF;"> Hari Jahnavi Kada</h1>
+<h1 align="center" style="color:#DC143C;"> Hari Jahnavi Kada</h1>
 
 <p align="center">
   <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
@@ -6,8 +6,7 @@
 </p>
 
 ---
-
-##  <span style="color:#0000FF;"> About Me </span>
+##  <span style="color:#DC143C;"> About Me </span>
 
 - 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
 - Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
@@ -16,8 +15,7 @@
 - Skilled in implementing **data quality**, **governance**, and **performance optimization**
 
 ---
-
-## <span style="color:#0000FF;"> Work Experience</span>
+## <span style="color:#DC143C;"> Work Experience</span>
 
 ###  **Elevance Health** — *Senior Data Engineer*  
  Atlanta, GA |  Dec 2023 – Present  
@@ -42,8 +40,7 @@
 - Automated ingestion with **AWS Lambda** and ensured encryption compliance.
 
 ---
-
-## <span style="color:#0000FF;"> Technical Skills</span>
+## <span style="color:#DC143C;"> Technical Skills</span>
 
 | Domain              | Tools & Technologies                                                                 |
 |---------------------|----------------------------------------------------------------------------------------|
@@ -56,8 +53,7 @@
 | **Other**            | Data Modeling, Star/Snowflake Schema, Agile, HIPAA, GDPR compliance                  |
 
 ---
-
-## <span style="color:#0000FF;"> Featured Projects</span>
+## <span style="color:#DC143C;"> Featured Projects</span>
 
 ###  **Healthcare Analytics Platform**
 > Real-time ETL pipeline integrating EHR, claims, and provider data for Elevance Health.
@@ -73,9 +69,8 @@
 > Developed a centralized Snowflake warehouse for sales and customer data at HomeGoods.
 - **Tools**: AWS Data Pipeline, Python, Snowflake
 - **Impact**: Improved marketing targeting and inventory management with real-time dashboards.
-
-
-## <span style="color:#0000FF;"> Let's Connect</span>
+- 
+## <span style="color:#DC143C;"> Let's Connect</span>
 
 -  **Email**:Send me a message : harijahnavikada@gmail.com  
 -  **LinkedIn**: Connect with me Professionally : [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
