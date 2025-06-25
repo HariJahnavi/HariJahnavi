@@ -10,11 +10,11 @@
 
 ##  <span style="color:#2E8B57;"> About Me</span>
 
-✅ 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
-✅ Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
-✅ Strong background in **Healthcare** and **Finance** domains  
-✅ Proven ability to work with cross-functional teams and deliver business value through data  
-✅ Skilled in implementing **data quality**, **governance**, and **performance optimization**
+- 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
+- Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
+- Strong background in **Healthcare** and **Finance** domains  
+- Proven ability to work with cross-functional teams and deliver business value through data  
+- Skilled in implementing **data quality**, **governance**, and **performance optimization**
 
 ---
 
