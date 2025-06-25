@@ -3,7 +3,6 @@
   <a href="https://github.com/HariJahnavi">Senior Data Engineer</a>
 </h1>
 
-
 ## <span style="color:#854710;"> About Me </span>
 
 I’m a Senior Data Engineer with over 8 years of experience working on everything from building scalable data pipelines to managing large distributed systems. I’ve had the chance to work hands-on with tools like PySpark, SQL, AWS, and Snowflake, and I enjoy turning complex data into real business insights. Most of my work has been in the Healthcare and Finance industries, where accuracy and performance really matter. I love collaborating with teams across different functions and always aim to build data solutions that are not just efficient, but also high in quality and governed for the long term.
