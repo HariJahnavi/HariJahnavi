@@ -3,7 +3,7 @@
   <a href="https://github.com/HariJahnavi">Senior Data Engineer</a>
 </h1>
 
-## <span style="color:#854710;"> Aboout Me </span>
+## <span style="color:#854710;"> About Me </span>
 
 - 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
 - Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
