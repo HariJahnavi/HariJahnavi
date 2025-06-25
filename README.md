@@ -1,4 +1,3 @@
-
 <h1 align="center" style="color:#FF69B4;"> Hari Jahnavi Kada</h1>
 
 <p align="center">
