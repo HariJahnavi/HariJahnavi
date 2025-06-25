@@ -69,7 +69,7 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
 -  [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
 -  [GitHub](https://github.com/HariJahnavi)
 
-## <span style="color:#854710;"> Thanks for Visiting!.I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.Feel free to reach out</span>
+## <span style="color:#854710;"> Thanks for Visiting!.I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.Feel free to reach out</span> 
 
 
 
