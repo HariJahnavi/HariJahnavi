@@ -4,7 +4,6 @@
   <a href="mailto:harijahnavikada@gmail.com"> Email: harijahnavikada@gmail.com</a>
 </p>
 
-
 ## <span style="color:#DC143C;"> Aboout Me </span>
 
 - 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
