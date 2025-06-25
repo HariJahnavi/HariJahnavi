@@ -70,6 +70,5 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
 -  [GitHub](https://github.com/HariJahnavi)
 ---
 ## <span style="color:#854710;"> Thanks for Visiting!</span>
-
 I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.  
 Feel free to reach out!.
