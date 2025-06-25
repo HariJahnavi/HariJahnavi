@@ -71,6 +71,5 @@
 ## <span style="color:#000000;"> Let's Connect</span>
 
 -  Email: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
--  LinkedIn: [linkedin.com/in/hari-jahnavi-kada-26a775299](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)  
----
-## <span style="color:#000000;"> Thanks for Visiting! </span>
+-  [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
+
