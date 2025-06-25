@@ -1,8 +1,5 @@
-<h1 align="center" style="color: #854710;"> Hari Jahnavi Kada</h1> 
-<p align="center">
-  <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
-  <a href="https://github.com/HariJahnavi">GitHub</a>
-</p>
+<h1> Hi, I'm Hari Jahnavi Kada! <br/><a href="https://github.com/HariJahnavi"> Senior Data Engineer</a></h1>
+
 
 ## <span style="color:#854710;"> Aboout Me </span>
 
