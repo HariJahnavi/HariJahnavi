@@ -1,7 +1,7 @@
-<h1 align="center" style="color:#DC143C;"> Hari Jahnavi Kada</h1>
+<h1 align="center" style="color:#DC143C;"> Hari Jahnavi Kada</h1> 
 <p align="center">
   <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
-  <a href="mailto:harijahnavikada@gmail.com"> Email: harijahnavikada@gmail.com</a>
+  <a href="https://github.com/HariJahnavi">GitHub</a>
 </p>
 
 ## <span style="color:#DC143C;"> Aboout Me </span>
