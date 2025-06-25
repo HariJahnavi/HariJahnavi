@@ -1,14 +1,13 @@
-<h1 align="center" style="color:#FF69B4;"> Hari Jahnavi Kada</h1>
+<h1 align="center" style="color:#0000FF;"> Hari Jahnavi Kada</h1>
 
 <p align="center">
   <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
   <a href="mailto:harijahnavikada@gmail.com"> Email: harijahnavikada@gmail.com</a>
 </p>
 
-
 ---
 
-##  <span style="color:#2E8B57;"> About Me</span>
+##  <span style="style="color:#0000FF;"> About Me</span>
 
 - 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
 - Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
@@ -18,7 +17,7 @@
 
 ---
 
-##  Work Experience
+## <span style="style="color:#0000FF;"> Work Experience</span>
 
 ###  **Elevance Health** — *Senior Data Engineer*  
  Atlanta, GA |  Dec 2023 – Present  
@@ -44,7 +43,7 @@
 
 ---
 
-##  Technical Skills
+## <span style="style="color:#0000FF;"> Technical Skills</span>
 
 | Domain              | Tools & Technologies                                                                 |
 |---------------------|----------------------------------------------------------------------------------------|
@@ -58,7 +57,7 @@
 
 ---
 
-##  Featured Projects
+## <span style="style="color:#0000FF;"> Featured Projects</span>
 
 ###  **Healthcare Analytics Platform**
 > Real-time ETL pipeline integrating EHR, claims, and provider data for Elevance Health.
@@ -76,7 +75,7 @@
 - **Impact**: Improved marketing targeting and inventory management with real-time dashboards.
 
 
-##  Let's Connect
+## <span style="style="color:#0000FF;"> Let's Connect</span>
 
 -  **Email**:Send me a message : harijahnavikada@gmail.com  
 -  **LinkedIn**: Connect with me Professionally : [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
