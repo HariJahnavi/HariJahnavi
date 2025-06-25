@@ -70,7 +70,8 @@
 - 
 ## <span style="color:#DC143C;"> Let's Connect</span>
 
--  **Email**:Send me a message : harijahnavikada@gmail.com  
--  **LinkedIn**: Connect with me Professionally : [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
--  **GITHUB**: View My code respositories : [github.com/HariJahnavi](https://github.com/HariJahnavi)
+-  Email: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
+-  LinkedIn: [linkedin.com/in/hari-jahnavi-kada-26a775299](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)  
+-  GitHub: [github.com/HariJahnavi](https://github.com/HariJahnavi)
 ---
+## <span style="color:#DC143C;"> Thanks for Visiting! </span>
