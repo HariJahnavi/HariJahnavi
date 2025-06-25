@@ -1,43 +1,51 @@
-# 👩‍💻 Hari Jahnavi Kada — Senior Data Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-blue?logo=github)](https://github.com/your-username)  
-📧 harijahnavikada@gmail.com | 📱 +1 (314) 933-4192 
+<h1 align="center" style="color:#FF69B4;"> Hari Jahnavi Kada</h1>
 
----
+<p align="center">
+  <b><span style="font-size:22px;">Senior Data Engineer | 8+ Years Experience</span></b><br>
+  <a href="mailto:harijahnavikada@gmail.com"> Email: harijahnavikada@gmail.com</a>
+</p>
 
-## 🔍 About Me
-
-Experienced **Data Engineer** with 8+ years of expertise in building robust ETL pipelines, cloud-native data platforms, and high-performance data solutions for **healthcare, finance, and retail**. Proficient in **AWS**, **Snowflake**, **PySpark**, and **Python**, with a focus on real-time analytics, data security, and compliance with standards like **HIPAA** and **GDPR**.
 
 ---
 
-## 💼 Work Experience
+##  <span style="color:#2E8B57;"> About Me</span>
 
-### 🔹 **Elevance Health** — *Senior Data Engineer*  
-📍 Atlanta, GA | 🗓️ Dec 2023 – Present  
+✅ 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
+✅ Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
+✅ Strong background in **Healthcare** and **Finance** domains  
+✅ Proven ability to work with cross-functional teams and deliver business value through data  
+✅ Skilled in implementing **data quality**, **governance**, and **performance optimization**
+
+---
+
+##  Work Experience
+
+###  **Elevance Health** — *Senior Data Engineer*  
+ Atlanta, GA |  Dec 2023 – Present  
 - Developed PySpark pipelines for large-scale healthcare data (claims, EHRs).
 - Designed real-time analytics with **AWS Kinesis** and **Snowflake**.
 - Migrated on-prem to cloud, ensuring HIPAA-compliant AWS architecture.
 
-### 🔹 **JPMorgan Chase** — *Data Engineer*  
-📍 New York, NY | 🗓️ Sep 2021 – Nov 2023  
+###  **JPMorgan Chase** — *Data Engineer*  
+ New York, NY |  Sep 2021 – Nov 2023  
 - Built financial ETL pipelines using **PySpark** and **Snowflake**.
 - Automated reporting workflows, improved SLA adherence.
 - Led data governance initiatives using **Collibra** and metadata cataloging.
 
-### 🔹 **HomeGoods** — *Data Engineer*  
-📍 Framingham, MA | 🗓️ Feb 2019 – Aug 2021  
+###  **HomeGoods** — *Data Engineer*  
+ Framingham, MA |  Feb 2019 – Aug 2021  
 - Developed retail analytics using AWS Glue, Redshift, and Python.
 - Implemented centralized data warehousing in **Snowflake**.
 
-### 🔹 **Swiggy** — *Associate Data Engineer*  
-📍 Bengaluru, India | 🗓️ Mar 2017 – Jan 2019  
+###  **Swiggy** — *Associate Data Engineer*  
+ Bengaluru, India |  Mar 2017 – Jan 2019  
 - Built high-volume pipelines for order and delivery data using **PySpark**.
 - Automated ingestion with **AWS Lambda** and ensured encryption compliance.
 
 ---
 
-## 🧰 Technical Skills
+##  Technical Skills
 
 | Domain              | Tools & Technologies                                                                 |
 |---------------------|----------------------------------------------------------------------------------------|
@@ -51,29 +59,29 @@ Experienced **Data Engineer** with 8+ years of expertise in building robust ETL 
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🏥 **Healthcare Analytics Platform**
+###  **Healthcare Analytics Platform**
 > Real-time ETL pipeline integrating EHR, claims, and provider data for Elevance Health.
 - **Tools**: AWS S3, Glue, Redshift, Kinesis, Snowflake, PySpark
 - **Impact**: Enabled insights for population health, risk scoring, and regulatory reporting.
 
-### 💹 **Financial Data Lake for Trade Monitoring**
+###  **Financial Data Lake for Trade Monitoring**
 > Built secure financial ETL pipelines to handle client transactions and risk data at JPMorgan.
 - **Tools**: PySpark, Snowflake, AWS S3, ECS, Athena
 - **Impact**: Enabled faster compliance reporting and operational efficiency.
 
-### 🛍️ **Retail Data Platform**
+###  **Retail Data Platform**
 > Developed a centralized Snowflake warehouse for sales and customer data at HomeGoods.
 - **Tools**: AWS Data Pipeline, Python, Snowflake
 - **Impact**: Improved marketing targeting and inventory management with real-time dashboards.
 
 
-## 🔗 Let's Connect
+##  Let's Connect
 
-- 📬 **Email**: harijahnavikada@gmail.com  
-- 🌐 **LinkedIn**: www.linkedin.com/in/hari-jahnavi-kada-26a775299
-- 💼 **Portfolio**: https://github.com/HariJahnavi
+-  **Email**:Send me a message : harijahnavikada@gmail.com  
+-  **LinkedIn**: Connect with me Professionally : [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
+-  **GITHUB**: View My code respositories : [github.com/HariJahnavi](https://github.com/HariJahnavi)
 ---
 
 
