@@ -67,11 +67,10 @@
 > Developed a centralized Snowflake warehouse for sales and customer data at HomeGoods.
 - **Tools**: AWS Data Pipeline, Python, Snowflake
 - **Impact**: Improved marketing targeting and inventory management with real-time dashboards.
-- 
+  
 ## <span style="color:#DC143C;"> Let's Connect</span>
 
 -  Email: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
 -  LinkedIn: [linkedin.com/in/hari-jahnavi-kada-26a775299](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)  
--  GitHub: [github.com/HariJahnavi](https://github.com/HariJahnavi)
 ---
 ## <span style="color:#DC143C;"> Thanks for Visiting! </span>
