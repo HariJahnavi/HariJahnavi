@@ -31,7 +31,7 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
  Bengaluru, India |  Mar 2017 – Jan 2019  
 - Built high-volume pipelines for order and delivery data using **PySpark**.
 - Automated ingestion with **AWS Lambda** and ensured encryption compliance.
-
+  
 ---
 ## <span style="color:#854710;"> Technical Skills</span>
 
@@ -69,9 +69,7 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
 -  [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
 -  [GitHub](https://github.com/HariJahnavi)
 
----
-## <span style="color:#854710;"> Thanks for Visiting.!</span>
+## <span style="color:#854710;"> Thanks for Visiting!.I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.Feel free to reach out</span>
 
-I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.  
-Feel free to reach out.!
+
 
