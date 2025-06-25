@@ -4,7 +4,7 @@
   <a href="https://github.com/HariJahnavi">GitHub</a>
 </p>
 
-## <span style="color:#000000;"> Aboout Me </span>
+## <span style="color:#854710;"> Aboout Me </span>
 
 - 8+ years of experience designing, building, and maintaining **data pipelines**, working with **large-scale distributed systems**  
 - Hands-on expertise in **PySpark**, **SQL**, **AWS**, **Snowflake**, and **ETL frameworks**  
@@ -13,7 +13,7 @@
 - Skilled in implementing **data quality**, **governance**, and **performance optimization**
 
 ---
-## <span style="color:#000000;"> Work Experience</span>
+## <span style="color:#854710;"> Work Experience</span>
 
 ###  **Elevance Health** — *Senior Data Engineer*  
  Atlanta, GA |  Dec 2023 – Present  
@@ -38,7 +38,7 @@
 - Automated ingestion with **AWS Lambda** and ensured encryption compliance.
 
 ---
-## <span style="color:#000000;"> Technical Skills</span>
+## <span style="color:#854710;"> Technical Skills</span>
 
 | Domain              | Tools & Technologies                                                                 |
 |---------------------|----------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@
 | **Other**            | Data Modeling, Star/Snowflake Schema, Agile, HIPAA, GDPR compliance                  |
 
 ---
-## <span style="color:#000000;"> Featured Projects</span>
+## <span style="color:#854710;"> Featured Projects</span>
 
 ###  **Healthcare Analytics Platform**
 > Real-time ETL pipeline integrating EHR, claims, and provider data for Elevance Health.
@@ -68,7 +68,7 @@
 - **Tools**: AWS Data Pipeline, Python, Snowflake
 - **Impact**: Improved marketing targeting and inventory management with real-time dashboards.
   
-## <span style="color:#000000;"> Let's Connect</span>
+## <span style="color:#854710;"> Let's Connect</span>
 
 -  Email to: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
 -  [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
