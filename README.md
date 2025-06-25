@@ -70,6 +70,6 @@
   
 ## <span style="color:#000000;"> Let's Connect</span>
 
--  Email: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
+-  Email to: [harijahnavikada@gmail.com](mailto:harijahnavikada@gmail.com)  
 -  [LinkedIn](https://www.linkedin.com/in/hari-jahnavi-kada-26a775299)
 
