@@ -73,5 +73,5 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
 ## <span style="color:#854710;"> Thanks for Visiting.!</span>
 
 I'm always open to new opportunities, exciting data challenges, or simply connecting with fellow professionals.  
-Feel free to reach out
+Feel free to reach out.!
 
