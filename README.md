@@ -71,5 +71,3 @@ I’m a Senior Data Engineer with over 8 years of experience working on everythi
 
 
 
-
-
